@@ -21,7 +21,7 @@ repository               : "andrewcaratenuto/andrewcaratenuto.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot1.jpg"
+  avatar           : "website-headshot.jpg"
   name             : "Andrew Caratenuto"
   pronouns         : # example: "she/her"  
   bio              : "Harvard Postdoctoral Fellow | Northeastern PhD"
