@@ -39,11 +39,11 @@ Featured Publications
 
 Grants, Awards and Honors
 ======
-## Grants
+### Grants
 * (2023) NSF SBIR Phase I (PI), *Climate eco-friendly biocoating for passive cooling of infrastructure*
 * (2023) Northeastern Spark Fund (Co-PI), *Nanofibrous biopaint for large-scale passive cooling*
 
-## Awards and Honors
+### Awards and Honors
 * (2024) Ferretti Leadership Award, *Northeastern University*
 * (2022) John and Katharine Cipolla Ph.D. Merit Award, *Northeastern University*
 * (2020) Chair's Fellowship, *Northeastern University*
