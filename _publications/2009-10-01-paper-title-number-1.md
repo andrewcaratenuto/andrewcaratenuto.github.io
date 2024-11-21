@@ -7,7 +7,7 @@ excerpt: 'In this paper, we offer theoretical and experimental evidence that cha
 date: 2024-09-18
 venue: 'Science Advances'
 paperurl: 'http://andrewcaratenuto.github.io/files/sciadv.adn6368.pdf'
-citation: "Andrew Caratenuto, Yi Zheng, Critical assessment of water enthalpy characterization through dark environment evaporation. <i>Sci. Adv.</i> 10, eadn6368 (2024)."
+citation: "Andrew Caratenuto, Yi Zheng, Critical assessment of water enthalpy characterization through dark environment evaporation. <i>Sci. Adv.</i> <b>10</b>, eadn6368 (2024)."
 ---
 
 In this paper, we offer theoretical and experimental evidence that challenges the vaporization enthalpy reduction view commonly employed in solar evaporation research.
