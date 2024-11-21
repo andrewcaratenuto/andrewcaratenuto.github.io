@@ -11,4 +11,7 @@ I am a researcher dedicated to engineering innovation, sustainability, and globa
 
 During my doctoral research at Northeastern University, I worked in Professor [Yi Zheng](https://nanoenergy.sites.northeastern.edu)'s lab on materials and devices for sustainable water purification and cooling.
 
-I am also the CEO of Boston-based startup company [Planck Energies](https://www.planckenergies.com), where we are working to make cheaper, greener passive radiative cooling technologies more accessible across the globe. 
+I am also the CEO of Boston-based startup company [Planck Energies](https://www.planckenergies.com), where we are working to make cheaper, greener passive radiative cooling technologies more accessible across the globe.
+
+I'm always eager to meet new researchers and hear diverse perspectives from across the sciences - please feel free to [email](mailto:andrew.caratenuto@gmail.com) me with questions on my work, thoughts on future projects, or simply to discuss engineering and technology.
+
