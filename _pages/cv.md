@@ -25,6 +25,9 @@ Experience
 
 * Graduate Research Assistant, Northeastern University, 2020 - 2024
   * Developed sustainable systems and materials for water harvesting and passive radiative cooling
+ 
+* Design Engineer, ASML, 2019 - 2020
+  * Designed optomechanical tooling systems for EUV lithography devices
 
   
 Featured Publications
