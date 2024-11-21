@@ -13,5 +13,5 @@ During my doctoral research at Northeastern University, I worked in Professor [Y
 
 I am also the CEO of Boston-based startup company [Planck Energies](https://www.planckenergies.com), where we are working to make cheaper, greener passive radiative cooling technologies more accessible across the globe.
 
-I'm always eager to meet new researchers and hear diverse perspectives from across the sciences - please feel free to [email](mailto:andrew.caratenuto@gmail.com) me with questions on my work, thoughts on future projects, or simply to discuss engineering and technology.
+I'm always eager to meet new researchers and hear diverse perspectives from across the sciences - please feel free to [email](mailto:andrew.caratenuto@gmail.com) me with questions on my work, thoughts on future projects, or to discuss engineering and technology in general.
 
