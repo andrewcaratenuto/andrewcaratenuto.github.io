@@ -16,17 +16,17 @@ Education
 
 Experience
 ======
-#### Postdoctoral Fellow, Harvard University, 2024 (current)
+## Postdoctoral Fellow, Harvard University, 2024 (current)
 * Researching thermal barrier coatings for high-performance engines
 * Fundamental radiative heat transfer, materials science, and high-temperature materials
  
-#### CEO, Planck Energies, 2021 - 2024 (current)
+## CEO, Planck Energies, 2021 - 2024 (current)
 * Scale and commercialize passive radiative cooling innovations for eco-friendly, accessible cooling
 
-#### Graduate Research Assistant, Northeastern University, 2020 - 2024
+## Graduate Research Assistant, Northeastern University, 2020 - 2024
 * Developed sustainable systems and materials for water harvesting and passive radiative cooling
  
-#### Design Engineer, ASML, 2019 - 2020
+## Design Engineer, ASML, 2019 - 2020
 * Designed optomechanical tooling systems for EUV lithography devices
 
   
@@ -39,10 +39,11 @@ Featured Publications
 
 Grants, Awards and Honors
 ======
-#### Grants
+## Grants
 * (2023) NSF SBIR Phase I (PI), *Climate eco-friendly biocoating for passive cooling of infrastructure*
 * (2023) Northeastern Spark Fund (Co-PI), *Nanofibrous biopaint for large-scale passive cooling*
-#### Awards and Honors
+
+## Awards and Honors
 * (2024) Ferretti Leadership Award, *Northeastern University*
 * (2022) John and Katharine Cipolla Ph.D. Merit Award, *Northeastern University*
 * (2020) Chair's Fellowship, *Northeastern University*
