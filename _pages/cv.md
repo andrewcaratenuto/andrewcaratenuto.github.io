@@ -11,37 +11,23 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, Northeastern University, 2024
+* B.S.E. in Mechanical Engineering, University of Connecticut, 2019
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Postdoctoral Fellow  |  Harvard University  |  2024 (current)
+  * Researching thermal barrier coatings for high-performance engines
+  * Fundamental radiative heat transfer, materials science, and high-temperature materials
+ 
+* CEO  |  Planck Energies  |  2021 - 2024 (current)
+  * Scale and commercialize passive radiative cooling innovations for eco-friendly, accessible cooling
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant  |  Northeastern University |  2020 - 2024
+  * Developed sustainable systems and materials for water harvesting and passive radiative cooling
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+Featured Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
