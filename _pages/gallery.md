@@ -35,7 +35,7 @@ author_profile: true
 }
 
 .gallery-item {
-  flex: 1 1 calc(25% - 16px); /* Adjusts the width of each item (4 items per row) */
+  flex: 1 1 calc(50% - 16px); /* Ensures 2 items per row */
   text-align: center;
   display: flex;
   flex-direction: column;
@@ -45,7 +45,7 @@ author_profile: true
 
 .gallery-item img {
   width: 100%; /* Makes the image fill the item's width */
-  max-width: 340px; /* Limits the maximum width of the image */
+  max-width: 400px; /* Adjust this value as needed */
   height: 225px; /* Ensures consistent image height */
   object-fit: cover; /* Crops the image to fit the specified dimensions */
   border-radius: 8px; /* Optional: Adds rounded corners */
