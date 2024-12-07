@@ -26,6 +26,7 @@ author_profile: true
   <!-- Repeat the above block for more images -->
 </div>
 
+
 <style>
 .gallery {
   display: flex;
@@ -35,16 +36,15 @@ author_profile: true
 }
 
 .gallery-item {
-  flex: 1 1 calc(33.333% - 16px);
-  box-sizing: border-box;
   text-align: center;
 }
 
 .gallery-item img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  width: 200px; /* Set the desired width */
+  height: 200px; /* Set the desired height */
+  object-fit: cover; /* Ensures images fill the dimensions */
+  border-radius: 8px; /* Optional: Adds rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a shadow effect */
 }
 
 .gallery-item p {
