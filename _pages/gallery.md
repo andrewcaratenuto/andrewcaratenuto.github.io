@@ -8,11 +8,11 @@ author_profile: true
 <div class="gallery">
   <!-- Add your photos here -->
   <div class="gallery-item">
-    <img src="images/neu_4f178x09j.jpeg" alt="Performing solar simulator experiments">
+    <img src="/images/neu_4f178x09j.jpeg" alt="Performing solar simulator experiments">
     <p>Performing solar simulator experiments</p>
   </div>
   <div class="gallery-item">
-    <img src="images/boston_urban_forum_ravi_ramamurti.webp" alt="Speaking as a panelist on sustainability at the Boston Urban Forum">
+    <img src="/images/boston_urban_forum_ravi_ramamurti.webp" alt="Speaking as a panelist on sustainability at the Boston Urban Forum">
     <p>Speaking as a panelist on sustainability at the Boston Urban Forum</p>
   </div>
   <!-- Repeat the above block for more images -->
