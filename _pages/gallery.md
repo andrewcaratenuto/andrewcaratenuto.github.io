@@ -15,6 +15,14 @@ author_profile: true
     <img src="/images/boston_urban_forum_ravi_ramamurti.webp" alt="Speaking as a panelist on sustainability at the Boston Urban Forum">
     <p>Speaking as a panelist on sustainability at the Boston Urban Forum</p>
   </div>
+  <div class="gallery-item">
+    <img src="/images/IMG_0855.png" alt="A successful thesis defense!">
+    <p>A successful thesis defense!</p>
+  </div>
+  <div class="gallery-item">
+    <img src="/images/EPD_7280.jpg" alt="Finalists in Cleantech & Sustainability at the Massachusetts Innovation Network's Eddies Program">
+    <p>Finalists in Cleantech & Sustainability at the Massachusetts Innovation Network's Eddies Program</p>
+  </div>
   <!-- Repeat the above block for more images -->
 </div>
 
