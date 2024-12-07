@@ -20,8 +20,8 @@ author_profile: true
     <p>A successful thesis defense!</p>
   </div>
   <div class="gallery-item">
-    <img src="/images/EPD_7280.jpg" alt="Finalists in Cleantech & Sustainability at the Massachusetts Innovation Network's Eddies Program">
-    <p>Finalists in Cleantech & Sustainability at the Massachusetts Innovation Network's Eddies Program</p>
+    <img src="/images/EPD_7280.jpg" alt="Cleantech & Sustainability Finalists in the Eddies program">
+    <p>Cleantech & Sustainability Finalists in the Eddies program</p>
   </div>
   <!-- Repeat the above block for more images -->
 </div>
@@ -40,8 +40,8 @@ author_profile: true
 }
 
 .gallery-item img {
-  width: 350px; /* Set the desired width */
-  height: 200px; /* Set the desired height */
+  width: 340px; /* Set the desired width */
+  height: 225px; /* Set the desired height */
   object-fit: cover; /* Ensures images fill the dimensions */
   border-radius: 8px; /* Optional: Adds rounded corners */
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Optional: Adds a shadow effect */
