@@ -40,7 +40,7 @@ author_profile: true
 }
 
 .gallery-item img {
-  width: 200px; /* Set the desired width */
+  width: 350px; /* Set the desired width */
   height: 200px; /* Set the desired height */
   object-fit: cover; /* Ensures images fill the dimensions */
   border-radius: 8px; /* Optional: Adds rounded corners */
