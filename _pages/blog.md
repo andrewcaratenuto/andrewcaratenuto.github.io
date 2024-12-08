@@ -5,42 +5,45 @@ permalink: /blog/
 author_profile: true
 ---
 
+
+<!-- Blog Post 3 -->
+<div class="blog-post">
+  <img src="/images/IMG_0855.png" alt="Successful thesis defense">
+  <div class="post-content">
+    <h3>A Successful Thesis Defense!</h3>
+    <p>
+      Very proud to have successfully defended my thesis, "Thermal, Optical, and Materials Design for Water and Energy Sustainability." This milestone marks the culmination of years of energy and materials research at Northeastern. A big thank you to my advisor, thesis committee, labmates, collaborators, and friends and family for helping make this possible!
+    </p>
+    <small>June 27, 2024</small>
+  </div>
+</div>
+
+
+<!-- Blog Post 2 -->
+<div class="blog-post">
+  <img src="/images/boston_urban_forum_ravi_ramamurti.webp" alt="Speaking at the Boston Urban Forum">
+  <div class="post-content">
+    <h3>Speaking at the Boston Urban Forum</h3>
+    <p>
+      It was an honor to speak as a panelist on sustainability initiatives at the Boston Urban Forum. The session explored innovative ways to integrate sustainability into urban development while addressing real-world challenges. Really enjoyed the engagement from the other panelists and the audience during this event!
+    </p>
+    <small>June 1, 2024</small>
+  </div>
+</div>
+
 <div class="gallery-blog">
   <!-- Blog Post 1 -->
   <div class="blog-post">
     <img src="/images/neu_4f178x09j.jpeg" alt="Performing solar simulator experiments">
     <div class="post-content">
-      <h3>Performing Solar Simulator Experiments</h3>
+      <h3>Our Research and Startup Company Featured in Northeastern News</h3>
       <p>
-        A glimpse into cutting-edge solar research! This image captures the intricate setup used to simulate solar energy and explore advanced energy solutions. The project is focused on improving efficiency and sustainability in renewable energy systems.
+        Our research on passive radiative cooling - as well as the startup formed to commercialize this technology - was featured in a Northeastern News article. Super grateful to have our work highlighted. Thanks to Sara Wadia-Fascetti and Matthew Modoono for putting together this wonderful article and photos!
       </p>
-      <small>Published: December 7, 2024</small>
+      <small>November 14, 2022</small>
     </div>
   </div>
 
-  <!-- Blog Post 2 -->
-  <div class="blog-post">
-    <img src="/images/boston_urban_forum_ravi_ramamurti.webp" alt="Speaking at the Boston Urban Forum">
-    <div class="post-content">
-      <h3>Speaking at the Boston Urban Forum</h3>
-      <p>
-        An honor to speak on sustainability initiatives at the Boston Urban Forum. The session explored innovative ways to integrate sustainability into urban development while addressing real-world challenges.
-      </p>
-      <small>Published: November 22, 2024</small>
-    </div>
-  </div>
-
-  <!-- Blog Post 3 -->
-  <div class="blog-post">
-    <img src="/images/IMG_0855.png" alt="Successful thesis defense">
-    <div class="post-content">
-      <h3>A Successful Thesis Defense!</h3>
-      <p>
-        Proud to have successfully defended my thesis on "Thermal, Optical, and Materials Design for Water and Energy Sustainability." This milestone marks the culmination of years of research and collaboration.
-      </p>
-      <small>Published: October 15, 2024</small>
-    </div>
-  </div>
 
   <!-- Blog Post 4 -->
   <div class="blog-post">
@@ -48,12 +51,15 @@ author_profile: true
     <div class="post-content">
       <h3>Cleantech & Sustainability Finalists</h3>
       <p>
-        Thrilled to be part of the Eddies program as a Cleantech & Sustainability finalist! Collaborating with inspiring innovators to drive impactful changes in sustainable technology.
+        Thrilled to have been a part of the Eddies program as a Cleantech & Sustainability finalist! Extremely excited for this opportunity to collaborate and network with inspiring innovators to drive impactful changes.
       </p>
-      <small>Published: September 30, 2024</small>
+      <small>November 6, 2022</small>
     </div>
   </div>
 </div>
+
+
+
 
 <style>
 .gallery-blog {
