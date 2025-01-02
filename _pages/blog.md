@@ -111,5 +111,36 @@ author_profile: true
   font-size: 14px;
   color: #888;
 }
+
+/* Responsive design for mobile devices */
+@media screen and (max-width: 768px) {
+  .blog-post {
+    flex-direction: column; /* Stack image and text vertically */
+    align-items: center; /* Center-align items */
+    gap: 20px; /* Adjust spacing for smaller screens */
+  }
+
+  .blog-post img {
+    max-width: 100%; /* Allow images to take full width */
+  }
+
+  .post-content {
+    max-width: 100%; /* Ensure content takes full width */
+    text-align: center; /* Center-align text for better readability */
+  }
+
+  .post-content h3 {
+    font-size: 20px; /* Adjust heading size */
+  }
+
+  .post-content p {
+    font-size: 14px; /* Adjust paragraph size */
+  }
+
+  .post-content small {
+    font-size: 12px; /* Adjust font size for date */
+  }
+}
 </style>
+
 
