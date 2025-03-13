@@ -16,6 +16,7 @@ I am also the CEO of Boston-based startup company [Planck Energies](https://www.
 I'm always eager to meet new researchers and hear diverse perspectives from across the sciences - please feel free to [email](mailto:andrew.caratenuto@gmail.com) me with questions on my work, thoughts on future projects, or to discuss engineering and technology in general.
 
 # Recent news
+- (Mar. 11, 2025) Gave an invited talk to the MIT NanoEngineering group - some very exciting discussions on evaporation and materials.
 - (Sept. 18, 2024) Our [paper](https://www.science.org/doi/full/10.1126/sciadv.adn6368) on interfacial solar evaporation was published in *Science Advances*!
 - (Sept. 3, 2024) Started as a postdoc in Prof. David Clarke's group at Harvard.
 - (Aug. 31, 2024) Successful conclusion of Planck Energies' [Phase 1 NSF SBIR award](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2321446&HistoricalAwards=false).
