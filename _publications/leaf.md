@@ -1,5 +1,5 @@
 ---
-title: "Forest waste to clean water: natural leaf-guar-derived solar desalinator"
+title: 'Forest waste to clean water: natural leaf-guar-derived solar desalinator'
 collection: publications
 category: manuscripts
 permalink: /publication/leaf
