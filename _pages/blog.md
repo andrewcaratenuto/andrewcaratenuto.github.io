@@ -8,7 +8,7 @@ author_profile: true
 
 <!-- Blog Post 3 -->
 <div class="blog-post">
-  <img src="/images/IMG_0855.png" alt="Another great Summer Heat Transfer Conference">
+  <img src="/images/andrewSHTC.png" alt="Another great Summer Heat Transfer Conference">
   <div class="post-content">
     <h3>Another great Summer Heat Transfer Conference</h3>
     <p>
