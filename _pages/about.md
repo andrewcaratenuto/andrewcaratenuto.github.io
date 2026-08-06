@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher dedicated to engineering innovation, sustainability, and global impact. I am currently a member of Professor [David Clarke](https://clarke.seas.harvard.edu)'s lab at Harvard University, where I study high-temperature materials for more efficient engines.
+I am a researcher dedicated to engineering innovation, sustainability, and global impact. I am currently a member of Professor [David Clarke](https://clarke.seas.harvard.edu)'s lab at Harvard University, where I study high-temperature materials for more efficient engines and diverse spectroscopic characterization methods.
 
 During my doctoral research at Northeastern University, I worked in Professor [Yi Zheng](https://nanoenergy.sites.northeastern.edu)'s lab on materials and devices for sustainable water purification and cooling.
 
-I am also the CEO of Boston-based startup company [Planck Energies](https://www.planckenergies.com), where we are working to make cheaper, greener passive radiative cooling technologies more accessible across the globe.
+I am also involved with Boston-based startup company [Planck Energies](https://www.planckenergies.com), where we are working to make cheaper, greener passive radiative cooling technologies more accessible across the globe.
 
-I'm always eager to meet new researchers and hear diverse perspectives from across the sciences - please feel free to [email](mailto:andrew.caratenuto@gmail.com) me with questions on my work, thoughts on future projects, or to discuss engineering and technology in general.
+I'm always eager to meet new researchers and hear diverse perspectives from across the sciences - please feel free to [email](mailto:acaratenuto@seas.harvard.edu) me with questions on my work, thoughts on future projects, or to discuss engineering and technology in general.
 
 # Recent news
+- (Jul. 27, 2026) Presented our high-temperature materials work at the ASME Summer Heat Transfer conference. Many fantastic talks and discussions with the heat transfer community!
+- (Jul. 1, 2026) Our [paper](https://www.sciencedirect.com/science/article/pii/S1359431126017114) on ultrafast sintering was published in *Applied Thermal Engineering*!
+- (Jun. 19, 2026) Gave an invited talk on heat transfer modeling for the Harvard Systems Chemistry Meets Materials Symposium!
 - (Mar. 17, 2025) Had an excellent time learning and networking at the [ARPA-E Energy Innovation Summit](https://www.arpae-summit.com/)!
 - (Mar. 11, 2025) Gave an invited talk to the NanoEngineering group at MIT - exciting discussions about solar evaporation and materials!
 - (Sep. 18, 2024) Our [paper](https://www.science.org/doi/full/10.1126/sciadv.adn6368) on interfacial solar evaporation was published in *Science Advances*!
