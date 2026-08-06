@@ -8,6 +8,18 @@ author_profile: true
 
 <!-- Blog Post 3 -->
 <div class="blog-post">
+  <img src="/images/IMG_0855.png" alt="Another great Summer Heat Transfer Conference">
+  <div class="post-content">
+    <h3>Another great Summer Heat Transfer Conference</h3>
+    <p>
+      Had a fantastic time in Bellevue, WA presenting our work on high-temperature materials, and discussing challenges and ideas in energy science with many great colleagues. 
+    </p>
+    <small>June 27, 2024</small>
+  </div>
+</div>
+
+<!-- Blog Post 3 -->
+<div class="blog-post">
   <img src="/images/IMG_0855.png" alt="Successful thesis defense">
   <div class="post-content">
     <h3>A Successful Thesis Defense!</h3>
