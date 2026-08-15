@@ -16,11 +16,12 @@ Education
 
 Experience
 ======
-### Postdoctoral Fellow, Harvard University, 2024 (current)
+### Postdoctoral Fellow, Harvard University, 2024 - Present
 * Researching thermal barrier coatings for high-performance engines
 * Fundamental radiative heat transfer, materials science, and high-temperature materials
- 
-### CEO, Planck Energies, 2021 - 2024 (current)
+
+### Member, Board of Directors, Planck Energies, 2026 - Present
+### CEO, Planck Energies, 2021 - 2026
 * Scale and commercialize passive radiative cooling innovations for eco-friendly, accessible cooling
 
 ### Graduate Research Assistant, Northeastern University, 2020 - 2024
