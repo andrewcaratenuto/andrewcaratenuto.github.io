@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Science, Engineering, and Energy"
+title: "Energy Science for Global Impact"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a researcher dedicated to engineering innovation in energy science for global impact. I am currently a member of Professor [David Clarke](https://clarke.seas.harvard.edu)'s lab at Harvard University, where I study high-temperature materials for more efficient engines and diverse spectroscopic characterization methods.
+I am a researcher dedicated to engineering energy science innovations for global impact. I am currently a member of Professor [David Clarke](https://clarke.seas.harvard.edu)'s lab at Harvard University, where I study high-temperature materials for more efficient engines and diverse spectroscopic characterization methods.
 
 During my doctoral research at Northeastern University, I worked in Professor [Yi Zheng](https://nanoenergy.sites.northeastern.edu)'s lab on materials and devices for sustainable water purification and cooling.
 
