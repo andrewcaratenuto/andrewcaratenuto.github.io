@@ -1,19 +1,19 @@
 ---
 permalink: /
-title: "Energy Science for Global Impact"
+title: "Engineering Innovations in Energy Science"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a researcher dedicated to engineering energy science innovations for global impact. I am currently a member of Professor [David Clarke](https://clarke.seas.harvard.edu)'s lab at Harvard University, where I study high-temperature materials for more efficient engines and diverse spectroscopic characterization methods.
+I am a researcher dedicated to leveraging fundamental and applied engineering concepts for global impact in energy science. I am currently a member of Professor [David Clarke](https://clarke.seas.harvard.edu)'s lab at Harvard University, where I study high-temperature materials for more efficient engines and diverse spectroscopic characterization methods. I am also very passionate about teaching and mentorship for academia and industry.
 
 During my doctoral research at Northeastern University, I worked in Professor [Yi Zheng](https://nanoenergy.sites.northeastern.edu)'s lab on materials and devices for sustainable water purification and cooling.
 
 I am also involved with Boston-based startup company [Planck Energies](https://www.planckenergies.com), where we are working to make cheaper, greener passive radiative cooling technologies more accessible across the globe.
 
-I'm always eager to meet new researchers and hear diverse perspectives from across the sciences - please feel free to [email](mailto:acaratenuto@seas.harvard.edu) me with questions on my work, thoughts on future projects, or to discuss engineering and technology in general.
+I'm always eager to connect with new colleagues - please feel free to contact me via [email](mailto:acaratenuto@seas.harvard.edu) with questions/thoughts on my work, or just to discuss ideas in engineering and technology.
 
 # Recent news
 - (Jul. 27, 2026) Presented our high-temperature materials work at the ASME Summer Heat Transfer conference. Many fantastic talks and discussions with the heat transfer community!
