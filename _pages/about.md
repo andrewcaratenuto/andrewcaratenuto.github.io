@@ -16,7 +16,7 @@ I am also involved with Boston-based startup company [Planck Energies](https://w
 I'm always eager to connect with new colleagues - please feel free to contact me via [email](mailto:acaratenuto@seas.harvard.edu) with questions/thoughts on my work, or just to discuss ideas in engineering and technology.
 
 # Recent news
-- (Aug. 26, 2026) Honored to be named a Rising Star in Mechanical Engineering by Stanford University! Looking forward to attending the associated [workshop]([url](https://risingstarsme.stanford.edu)) in late September.
+- (Aug. 26, 2026) Honored to be named a Rising Star in Mechanical Engineering by Stanford University! Looking forward to attending the [workshop](https://risingstarsme.stanford.edu) at Stanford in late September.
 - (Jul. 27, 2026) Presented our high-temperature materials work at the ASME Summer Heat Transfer conference. Many fantastic talks and discussions with the heat transfer community!
 - (Jul. 1, 2026) Our [paper](https://www.sciencedirect.com/science/article/pii/S1359431126017114) on ultrafast sintering was published in *Applied Thermal Engineering*!
 - (Jun. 19, 2026) Gave an invited talk on heat transfer modeling for the Harvard Systems Chemistry Meets Materials Symposium!
