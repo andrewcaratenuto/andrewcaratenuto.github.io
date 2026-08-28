@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Engineering Innovations in Energy Science"
+title: "Engineering Energy Innovations"
 author_profile: true
 redirect_from: 
   - /about/
