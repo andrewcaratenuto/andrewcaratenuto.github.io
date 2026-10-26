@@ -1,5 +1,5 @@
 ---
-title: "Invited seminar: Material design and testing for interfacial solar evaporation"
+title: "Invited talk: Material design and testing for interfacial solar evaporation"
 collection: talks
 type: "NanoEngineering Group"
 venue: "MIT"
