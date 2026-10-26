@@ -14,7 +14,7 @@ author_profile: true
     <p>
       Had a fantastic time in Bellevue, WA presenting our work on high-temperature materials, and discussing challenges and ideas in energy science with many great colleagues. 
     </p>
-    <small>August 27, 2026</small>
+    <small>July 27, 2026</small>
   </div>
 </div>
 
