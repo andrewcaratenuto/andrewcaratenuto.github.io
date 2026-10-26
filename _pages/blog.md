@@ -4,6 +4,30 @@ title: "Blog"
 permalink: /blog/
 author_profile: true
 ---
+<!-- Blog Post 3 -->
+<div class="blog-post">
+  <img src="/images/rising_stars_group.png" alt="Stanford Rising Stars">
+  <div class="post-content">
+    <h3>Rising Stars in Mechanical Engineering at Stanford</h3>
+    <p>
+      Had an incredible time at this workshop, meant to prepare early-career scientists for academic positions. Heard from many faculty at Stanford and Berkeley, and made many new friends with an amazing cohort of peers. Very grateful to the organizers, and honored to have been selected!
+    </p>
+    <small>September 24, 2026</small>
+  </div>
+</div>
+
+<!-- Blog Post 3 -->
+<div class="blog-post">
+  <img src="/images/yale_conference_group.png" alt="UTM2 conference at Yale">
+  <div class="post-content">
+    <h3>Attending Yale's Ultra-high Temperature Materials and Manufacturing (UTM2) conference</h3>
+    <p>
+      Connected with many great researchers in high-temperature materials and manufacturing at Yale's UTM2 conference. Heard very interesting talks and gave a poster presentation of our high-temperature sintering work.
+    </p>
+    <small>September 14, 2026</small>
+  </div>
+</div>
+
 
 
 <!-- Blog Post 3 -->
