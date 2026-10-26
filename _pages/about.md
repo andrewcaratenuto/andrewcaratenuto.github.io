@@ -13,7 +13,7 @@ During my doctoral research at Northeastern University, I worked in Professor [Y
 
 I am also involved with Boston-based startup company [Planck Energies](https://www.planckenergies.com), where we are working to make cheaper, greener passive radiative cooling technologies more accessible across the globe.
 
-I'm always eager to connect with new colleagues - please feel free to contact me via [email](mailto:acaratenuto@seas.harvard.edu) with questions/thoughts on my work, or just to discuss ideas in engineering and technology.
+I'm always eager to connect with new colleagues - please feel free to contact me via [email](mailto:acaratenuto@seas.harvard.edu).
 
 # Recent news
 - (Aug. 26, 2026) Honored to be named a Rising Star in Mechanical Engineering by Stanford University! Looking forward to attending the [workshop](https://risingstarsme.stanford.edu) at Stanford in late September.
