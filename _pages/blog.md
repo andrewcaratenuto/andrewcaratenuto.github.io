@@ -6,7 +6,7 @@ author_profile: true
 ---
 <!-- Blog Post 3 -->
 <div class="blog-post">
-  <img src="/images/rising_stars_group.png" alt="Stanford Rising Stars">
+  <img src="/images/rising_stars_group.jpg" alt="Stanford Rising Stars">
   <div class="post-content">
     <h3>Rising Stars in Mechanical Engineering at Stanford</h3>
     <p>
@@ -18,7 +18,7 @@ author_profile: true
 
 <!-- Blog Post 3 -->
 <div class="blog-post">
-  <img src="/images/yale_conference_group.png" alt="UTM2 conference at Yale">
+  <img src="/images/yale_conference_group.jpg" alt="UTM2 conference at Yale">
   <div class="post-content">
     <h3>Attending Yale's Ultra-high Temperature Materials and Manufacturing (UTM2) conference</h3>
     <p>
