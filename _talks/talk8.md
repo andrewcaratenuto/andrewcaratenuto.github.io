@@ -1,9 +1,8 @@
 ---
-title: "Thermal transport and densification during ultrafast high-temperature sintering"
+title: "Conference presentation: Thermal transport and densification during ultrafast high-temperature sintering"
 collection: talks
-type: "Systems Chemistry Meets Materials Symposium"
-venue: "Harvard University"
-date: 2026-06-19
-location: "Cambridge, MA, USA"
+type: "ASME Summer Heat Transfer Conference"
+venue: "Anaheim"
+date: 2026-07-27
+location: "WA, USA"
 ---
-
